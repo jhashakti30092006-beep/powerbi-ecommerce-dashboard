@@ -5,13 +5,13 @@ Interactive sales dashboard built in Power BI analyzing 541,909 real
 transactions from a UK-based e-commerce store (1 year of data).
 
 ## Key Business Insights
-- Total Revenue: £9.75M | Total Orders: 26K | Total Customers: 4K
+- Total Revenue: 9.75M | Total Orders: 26K | Total Customers: 4K
 - Revenue peaks in August-September — summer demand drives more 
   sales than the holiday season for this store
-- United Kingdom accounts for £8.2M (84% of total revenue)
-- Netherlands has the highest Average Order Value at £2.8K — 
+- United Kingdom accounts for 8.2M (84% of total revenue)
+- Netherlands has the highest Average Order Value at 2.8K — 
   despite lower total orders, customers spend significantly more per order
-- Top product: DOTCOM POSTAGE at £0.21M revenue
+- Top product: DOTCOM POSTAGE at 0.21M revenue
 
 ## Dashboard Visuals
 - KPI Cards — Total Revenue, Total Orders, Total Customers
